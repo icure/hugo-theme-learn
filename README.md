@@ -9,6 +9,7 @@ Visit the [theme documentation](https://learn.netlify.com/en/) to see what is go
 
 ## Main features
 
+
 - Automatic Search
 - Multilingual mode
 - Unlimited menu levels
